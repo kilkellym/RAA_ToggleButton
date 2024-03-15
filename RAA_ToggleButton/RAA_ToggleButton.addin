@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAA_ToggleButton - Command 1</Text>
+    <Description>Some description for RAA_ToggleButton</Description>
+    <Assembly>RAA_ToggleButton.dll</Assembly>
+    <FullClassName>RAA_ToggleButton.Command1</FullClassName>
+    <ClientId>cc588845-8122-4167-83fb-9eaba8cccc63</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAA_ToggleButton - Command 2</Text>
+    <Description>Some description for RAA_ToggleButton</Description>
+    <Assembly>RAA_ToggleButton.dll</Assembly>
+    <FullClassName>RAA_ToggleButton.Command2</FullClassName>
+    <ClientId>c0fae867-bd3d-4ed5-bbf0-56b55d1c4c1a</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>RAA_ToggleButton</Name>
+    <Assembly>RAA_ToggleButton.dll</Assembly>
+    <FullClassName>RAA_ToggleButton.App</FullClassName>
+    <ClientId>27c30039-f181-4d2d-a3a8-17f9863c071c</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
